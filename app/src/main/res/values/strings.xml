@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidFingerprintJava</string>
+    <string name="authenticate">AUTHENTICATE</string>
+</resources>
